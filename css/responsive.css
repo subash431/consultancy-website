@@ -1,0 +1,329 @@
+@media screen and (max-width: 976px) {
+    .lower__lists ul {
+        gap: 2rem;
+    }
+
+    .lower__lists ul li a {
+        font-size: 1.2rem;
+    }
+
+    .carousel-item P {
+        font-size: 2rem;
+    }
+
+    .test__Section--subdiv {
+        width: 28rem;
+    }
+
+    .test__Section--div {
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    .destination__container img {
+        height: 18.5rem;
+    }
+
+    .success__container--items {
+        flex-wrap: wrap;
+    }
+
+    .test__section {
+        padding: 2rem;
+    }
+
+    .success__section {
+        padding: 2rem;
+
+    }
+
+    .contact__setion {
+        padding: 2rem;
+    }
+
+    .footer__Section {
+        padding: 2rem;
+    }
+
+
+}
+
+@media screen and (max-width: 800px) {
+    .upper__header--left>p {
+        font-size: .8rem;
+    }
+
+    .text>P {
+        font-size: .8rem;
+
+    }
+
+    .upper__header--logo img {
+        height: 1rem;
+    }
+
+    .btn {
+        font-size: 1rem;
+    }
+
+    .lower__nav--container {
+        justify-content: space-around;
+    }
+
+    .lower__lists ul {
+        position: absolute;
+        top: 50px;
+        right: 0;
+        background: #333;
+
+        width: 100%;
+        overflow: hidden;
+        transition: max-height 0.5s;
+        gap: 1rem;
+        flex-direction: column;
+        align-items: flex-end;
+
+
+
+
+
+
+    }
+
+    .lower__lists ul li {
+        display: block;
+        margin-right: 50px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+
+    .lower__lists ul li a {
+        color: #fff;
+        font-size: 1.3rem;
+    }
+
+    .menu-icon {
+        display: block;
+        cursor: pointer;
+    }
+
+    .message__person--img img {
+        height: 21rem;
+        width: auto;
+    }
+
+    .message__text h1 {
+        font-size: 2rem;
+    }
+
+    .message__container {
+        gap: 3rem;
+    }
+
+    .message__text>p {
+        font-size: 1rem;
+        line-height: 1.6rem;
+    }
+
+    .message__section {
+        padding: 5rem;
+    }
+
+    .seccess__text>p {
+        font-size: 1rem;
+        line-height: 2rem;
+    }
+
+    .std--text p {
+        font-size: 1rem;
+        line-height: 2rem;
+
+    }
+
+    .sub__news--section--items p {
+
+        font-size: 1rem;
+        line-height: 2rem;
+    }
+
+    .news__section {
+        gap: 0rem;
+    }
+
+    .sub__news--section--items {
+        gap: 0rem;
+
+    }
+
+    .sub__news--section {
+        gap: 0rem;
+    }
+
+    form {
+        gap: 0rem;
+    }
+
+    .mb-3 label {
+        font-size: 1rem;
+    }
+
+    .mb-3 input {
+        height: 20px;
+    }
+
+    .form-button {
+        font-size: 1rem;
+        width: 15rem;
+    }
+
+    .read-btn {
+        font-size: 1rem;
+
+    }
+
+    .std--contaier--items {
+        width: 100%;
+    }
+
+    .ste--images img {
+        /* height: 100%;
+        width: auto; */
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    .message__container {
+        flex-direction: column;
+    }
+
+    .carousel-item img {
+        height: 18rem;
+    }
+
+    .ste--images img {
+        height: 19rem;
+
+    }
+
+    .carousel-item P {
+        font-size: 1rem;
+        letter-spacing: 0rem;
+        top: 96px;
+    }
+
+    .lower__logo img {
+        height: 3rem;
+    }
+
+    .std--text h1 {
+        font-size: 1.5rem;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .footer__container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .footer--logo img {
+        height: 1rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+    .footer--text p a {
+        font-size: 1rem;
+    }
+
+    .test__Section--items>h1 {
+        font-size: 2rem;
+    }
+
+    .text__Section--container {
+        gap: 0rem;
+    }
+
+    .upper__success {
+        gap: 2rem;
+        padding: 1rem;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .upper__header {
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: flex-end;
+    }
+
+    .upper__header--right {
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: flex-end;
+
+    }
+
+    .message__person--img img {
+        width: 100%;
+        height: auto;
+    }
+
+    .ste--images img {
+        width: 100%;
+        height: auto;
+
+    }
+
+    .subdiv {
+        gap: 0rem;
+    }
+
+    .upper__success h1 {
+        font-size: 1rem;
+    }
+
+    .upper__success p {
+        font-size: 1rem;
+    }
+
+    .upper__success img {
+        height: 5rem;
+    }
+
+    .upper__text {
+        margin: 0rem;
+    }
+
+    .std--text h1 {
+        font-size: 1rem;
+    }
+
+    .contact__section--form {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    form {
+        width: 100%;
+    }
+
+    .news__section {
+        width: 100%;
+
+    }
+
+    .mb-3 input {
+        width: 100%;
+    }
+
+    .mb-3 textarea {
+        width: 100%;
+
+    }
+}
