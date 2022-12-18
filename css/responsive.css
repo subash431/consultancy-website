@@ -15,9 +15,7 @@
         width: 100%;
     }
 
-    .destination__container img {
-        height: 43rem;
-    }
+
 
     .message__section {
         padding: 5rem;
@@ -55,9 +53,7 @@
         gap: 1rem;
     }
 
-    .destination__container img {
-        height: 18.5rem;
-    }
+
 
     .success__container--items {
         flex-wrap: wrap;
@@ -358,4 +354,7 @@
         width: 100%;
 
     }
+
+
+
 }
