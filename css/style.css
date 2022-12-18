@@ -239,6 +239,7 @@ p {
     justify-content: space-around;
     gap: 6rem;
     width: 100%;
+    flex-wrap: wrap;
 
 }
 
@@ -251,6 +252,8 @@ p {
     gap: 1rem;
     padding: 2rem;
     border-radius: .4rem;
+    width: 27%;
+
 
 }
 
