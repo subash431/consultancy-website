@@ -1,3 +1,38 @@
+@media screen and (max-width: 1200px) {
+    .test__section {
+        padding: 5rem;
+    }
+
+    .test__Section--div {
+        flex-wrap: wrap;
+    }
+
+    .test__Section--subdiv {
+        width: 40%;
+    }
+
+    .desination-section {
+        width: 100%;
+    }
+
+    .destination__container img {
+        height: 43rem;
+    }
+
+    .message__section {
+        padding: 5rem;
+    }
+
+    .success__section {
+        padding: 5rem;
+
+    }
+
+    .contact__setion {
+        padding: 5rem;
+    }
+}
+
 @media screen and (max-width: 976px) {
     .lower__lists ul {
         gap: 2rem;
@@ -185,10 +220,7 @@
         width: 100%;
     }
 
-    .ste--images img {
-        /* height: 100%;
-        width: auto; */
-    }
+
 
 }
 
